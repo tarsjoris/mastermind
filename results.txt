@@ -1,0 +1,9 @@
+Using only remainingoptions
+
+Solved 468 games in 4 turns
+Solved 99 games in 3 turns
+Solved 662 games in 5 turns
+Solved 1 games in 1 turns
+Solved 12 games in 2 turns
+Solved 54 games in 6 turns
+
